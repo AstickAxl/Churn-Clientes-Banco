@@ -103,6 +103,8 @@ Churn-Clientes-Banco/
 
 Axel López
 
-🔗 LinkedIn
+🔗 LinkedIn - https://www.linkedin.com/in/axel-lópez-linares/
+
 ✉️ axellpzlin@gmail.com
+
 🎯 Proyecto de portafolio - Bootcamp de Ciencia de Datos

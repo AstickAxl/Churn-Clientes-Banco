@@ -95,3 +95,11 @@ Churn-Clientes-Banco/
 ├── requirements.txt                   # Librerías necesarias
 ├── .gitignore
 └── README.md
+
+## 👨‍💻 Autor
+
+Axel López
+
+🔗 LinkedIn
+✉️ axellpzlin@gmail.com
+🎯 Proyecto de portafolio - Bootcamp de Ciencia de Datos

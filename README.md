@@ -87,7 +87,7 @@ Churn-Clientes-Banco/
 │   └── Modelo_Churn_Banco.py          # Código fuente limpio con el pipeline de ML
 │
 ├── Notebooks/
-│   └── Proyecto10_Churn.ipynb         # Notebook con el desarrollo paso a paso
+│   └── Proyecto10.ipynb         # Notebook con el desarrollo paso a paso
 │
 ├── Data/
 │   └── Churn.csv                      # Dataset del proyecto (ajusta el nombre si es distinto)
